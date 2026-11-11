@@ -1,9 +1,9 @@
 # UTS_Algoritma_RifaRifaldi
 
-Nama   :Rifa Rifaldi
-NIM    :C2583207037
-Kelas  :PTI3B
-Prodi  :Pendidikan Teknologi Informasi
+**Nama   :**Rifa Rifaldi
+**NIM    :**C2583207037
+**Kelas  :**PTI3B
+**Prodi  :**Pendidikan Teknologi Informasi
 
 
 **HASIL SCRENSHOOT**
