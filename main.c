@@ -1,17 +1,3 @@
-/*
- * Sistem Monitoring Stok dan Penjualan Kantin Kampus
- * Mata Kuliah : Algoritma dan Pemrograman Lanjutan
- * Bahasa      : C (aplikasi console)
- *
- * Struktur data utama (semua berupa array):
- *   nama[][]      -> array karakter 2D  : nama produk
- *   harga[]       -> array 1D           : harga satuan
- *   stok[]        -> array 1D           : stok tersedia
- *   terjual[]     -> array 1D           : jumlah unit terjual
- *   pendapatan[]  -> array 1D           : akumulasi pendapatan per produk
- *   jumlahProduk  -> jumlah data aktif (indeks 0 .. jumlahProduk-1)
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
