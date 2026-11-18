@@ -1,4 +1,4 @@
-**Sistem Monitoring Stok dan Penjualan Kantin Kampus**
+**SISTEM MONITORING STOK dan PENJUALAN KANTIN KAMPUS**
 
 Nama   :Rifa Rifaldi
 
