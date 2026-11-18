@@ -9,6 +9,10 @@ Kelas  :PTI3B
 Prodi  :Pendidikan Teknologi Informasi
 
 
+Deskripsi Singkat
+
+Adventure Camp - Sistem Penyewaan Peralatan Camping adalah aplikasi berbasis console yang dibuat menggunakan bahasa pemrograman C. Program ini berfungsi untuk membantu pencatatan transaksi penyewaan alat camping secara otomatis, mulai dari menampilkan daftar harga, menghitung total biaya sewa beserta diskon berdasarkan durasi, mencetak struk pembayaran, hingga menyimpan riwayat transaksi selama aplikasi berjalan.
+
 **HASIL SCRENSHOOT**
 
 Tampilan Menu ke 1
