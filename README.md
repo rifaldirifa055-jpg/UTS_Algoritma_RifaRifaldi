@@ -1,4 +1,4 @@
-# UTS_Algoritma_RifaRifaldi
+# Adventure Camp - Sistem Penyewaan Peralatan Camping
 
 Nama   :Rifa Rifaldi
 
