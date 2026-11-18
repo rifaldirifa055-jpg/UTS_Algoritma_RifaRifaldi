@@ -1,4 +1,4 @@
-# Adventure Camp - Sistem Penyewaan Peralatan Camping
+**Sistem Monitoring Stok dan Penjualan Kantin Kampus**
 
 Nama   :Rifa Rifaldi
 
@@ -11,7 +11,7 @@ Prodi  :Pendidikan Teknologi Informasi
 
 **Deskripsi Singkat**
 
-Adventure Camp - Sistem Penyewaan Peralatan Camping adalah aplikasi berbasis console yang dibuat menggunakan bahasa pemrograman C. Program ini berfungsi untuk membantu pencatatan transaksi penyewaan alat camping secara otomatis, mulai dari menampilkan daftar harga, menghitung total biaya sewa beserta diskon berdasarkan durasi, mencetak struk pembayaran, hingga menyimpan riwayat transaksi selama aplikasi berjalan.
+Aplikasi berbasis terminal yang dikembangkan menggunakan bahasa pemrograman C untuk membantu pengelola kantin kampus memantau ketersediaan barang dan transaksi harian. Menggunakan array sebagai struktur data utama tanpa database eksternal, sistem ini dilengkapi fitur manajemen produk, validasi stok saat transaksi, pencarian produk, pengurutan harga maupun penjualan, serta peringatan dini untuk stok yang menipis (kurang dari 5 unit).
 
 **HASIL SCRENSHOOT**
 
